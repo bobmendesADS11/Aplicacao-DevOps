@@ -30,3 +30,4 @@ Quando requisitada, esta aplicacao retorna ao cliente um documento `.html` com u
 
 - **Caio Mazziero Schultz**
 - **Henrique Pereira Rodrigues Nunes**
+- **Moacir Mendes de Oliveira Neto**
